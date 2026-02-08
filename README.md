@@ -16,9 +16,9 @@ Kesimpulan: SessionStorage adalah tab-isolated <br>
 Eksperimen 3 <br>
 - Cookies: 4 KB
 - LocalStorage: 5 - 10 MB
-- SessionStorage: 5 - 10 MB
+- SessionStorage: 5 - 10 MB <br>
 Sejujurnya tidak bisa melihat quota masing-masing storage di DevTools-nya <br>
-
+![alt text](https://github.com/ronalsm1/Storage-Lab-Handson-3-TI-WEB2/blob/main/screenshots/eksperimen3(b)%5Bcomparison-storagesize%5D.png?raw=true)
 <br>
 Eksperimen 4 <br>
 Skenario 1 jawabannya LocalStorage. Alasannya, karena LocalStorage bersifat permanen, tidak memiliki waktu kadaluarsa, sehingga pilihan user tidak akan hilang meskipun browser ditutup total dan dibuka kembali di lain waktu. User tidak perlu mengatur ulang tema setiap kali berkunjung. <br>
